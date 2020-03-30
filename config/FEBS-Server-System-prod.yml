@@ -10,7 +10,7 @@ spring:
         url: http://${febs-monitor-admin}:8401
         username: febs
         password: 123456
-  freemarker:
+  freemarker:以
     check-template-location: false
 
   datasource:
